@@ -1,0 +1,108 @@
+/* Criar estilo para a página */
+body{
+    font-family: 'Arial', sans-serif;
+    color:#1e293b;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    margin: 5px;
+    padding: 5px;
+
+ /* Propriedades para a imagem de fundo*/   
+    
+article {
+    background-imagem: url(caminho/para/a/tua-imagem.jpg');
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+
+    
+}
+/* estilo para os títulos */
+
+section {
+    background-color: #05fa2e;
+    border: 1px solid #CCCCCC;
+    border-radius: 8px;
+    padding: 20px;
+
+}
+/* estilo para os artigos */
+h2, h3 {
+
+    color: #333333;
+    font-family: 'Arial', sans-serif;
+    font-size: 16px;
+    front
+    margin-bottom: 12px;
+}
+/* Estilo para cabeçalhos */
+Header{
+    background-color: rgb(255, 0, 43);
+    color: beige;
+    padding: 10px;
+    text-align: center;
+}
+.content {
+    max-width: 800px;
+    margin: 0 auto;
+    padding: 20px;
+}
+/* Criar um estilo para página, tais como cores e fontes das letras */
+body {
+    font-family: Verdana, sans-serif;
+    background-color: #fcf6fc;
+    border: 1px solid #41035d;
+    border-radius: 8px;
+    padding: 20px;
+}
+/* Estilo para a seção principal */
+section {
+    background-color: #dfb3f9;
+    border: 1px solid #41035d;
+    border-radius: 8px;
+    padding: 20px;
+}
+/* Estilo para os artigos */
+article {
+    background-color: #fbf4fa;
+    border: 1px solid #41035d;
+    border-radius: 8px;
+    padding: 20px;
+}
+/* Estilo para o cabeçalho */
+h2, h3 {
+    /* Toda vez que precisar trocar a cor do texto, declare a tag que contenha o texto que vai trocar de cor e chame o argumento color */
+    color: #34032b;
+    font-family: 'Arial', sans-serif;
+    font-size: 16px;
+    margin-bottom: 12px;
+}
+/* Cor para a letra de todo o site */
+p {
+    color: rgb(56, 2, 65);
+}
+.content {
+    display: flex;
+    /* color: #34032b; */
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    padding: 20px;
+
+}
+.cartao-perfil {
+    background-color: #fff;
+    front-size: 'Arial', sans-serif;
+    font-weigth: bold;
+    margin-bottom: 12px;
+
+}
+cartao-sutitulo {
+    color:#2563eb;
+    font-size: 'Arial', sans-serif;
+    font-weight: bold;
+    margin-bottom: 8px
+
+}
